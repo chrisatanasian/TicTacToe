@@ -1,2 +1,2 @@
 # TicTacToe
-HTML5 Tic Tac Toe game.
+A simple Tic-Tac-Toe game invovling two players, using HTML5 canvas.
